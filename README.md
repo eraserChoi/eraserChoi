@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FeraserChoi&count_bg=%2379C83D&title_bg=%23555555&icon=reddit.svg&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/45599f05-6895-4eda-bd15-3016ea2fe4f1.svg)](https://wakatime.com/@45599f05-6895-4eda-bd15-3016ea2fe4f1)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eraserChoi&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
